@@ -1,0 +1,7 @@
+{
+  "name": "OmniTrack Issue System",
+  "description": "A comprehensive issue tracking platform for software development teams, featuring real-time dashboards, role-based access, and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
